@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL]([(https://github.com/cout05/Frontend-Mentor-Multi-step-form))
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://cout05.github.io/Frontend-Mentor-Multi-step-form/))
 
 ### Built with
 
